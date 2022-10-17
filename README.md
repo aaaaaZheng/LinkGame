@@ -1,4 +1,4 @@
-# WHUT_LinkGame
+# LinkGame
 WHUT 数据结构与算法综合实验 连连看
 使用MFC框架构建图形界面
 使用图结构作为存储结构
